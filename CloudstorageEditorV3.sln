@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudstorageEditorV3", "CloudstorageEditorV3\CloudstorageEditorV3.csproj", "{AA380C46-8E64-4A28-A0AD-87BCCF10070C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoKick", "NoKick\NoKick.vcxproj", "{B6310E18-F51F-48F3-8776-62980E73E958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Debug|x64.ActiveCfg = Debug|x64
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Debug|x64.Build.0 = Debug|x64
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Debug|x86.Build.0 = Debug|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Release|x64.ActiveCfg = Release|x64
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Release|x64.Build.0 = Release|x64
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA380C46-8E64-4A28-A0AD-87BCCF10070C}.Release|x86.Build.0 = Release|Any CPU
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Debug|x64.ActiveCfg = Debug|x64
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Debug|x64.Build.0 = Debug|x64
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Debug|x86.Build.0 = Debug|Win32
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Release|x64.ActiveCfg = Release|x64
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Release|x64.Build.0 = Release|x64
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Release|x86.ActiveCfg = Release|Win32
+		{B6310E18-F51F-48F3-8776-62980E73E958}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD18F390-3F62-44BC-AD18-0325ABEF15C3}
+	EndGlobalSection
+EndGlobal
