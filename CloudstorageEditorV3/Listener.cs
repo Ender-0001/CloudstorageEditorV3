@@ -89,6 +89,8 @@ namespace CloudstorageEditorV3
                     context.Response.StatusCode = 200;
                     http.Send(data);
                 }
+                
+                http.Dispose();
 
             }
         }
